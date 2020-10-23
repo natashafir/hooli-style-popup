@@ -1,0 +1,22 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    background-image: url(".././img/bg.jpg");
+    background-size: cover;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    color: var(--white-color);
+    text-decoration: none;
+}
