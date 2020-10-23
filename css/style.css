@@ -1,5 +1,9 @@
-@import "_variables.css";
 
+:root {
+    --white-color: #fff;
+    --main-color: #08f7fe;
+    --accent-color: #ff008d;
+}
 
 body {
     font-family: 'Quicksand', sans-serif;
